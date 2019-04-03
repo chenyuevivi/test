@@ -1,5 +1,15 @@
 This is cy's git file. 
 This is second line. 
 123456789 
+<<<<<<< HEAD
 this line is another line. 
+<<<<<<< HEAD
 test test 
+=======
+=======
+test1 to branch1 
+test2 to branch2 
+>>>>>>> branch1
+111111222222 
+33333344444 
+>>>>>>> branch1
